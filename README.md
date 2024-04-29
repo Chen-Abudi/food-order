@@ -18,7 +18,7 @@
 
 - React + React Hooks
 - JavaScript
-- NodeJS
+- NodeJS + NodeJS Libraries
 - ExpressJS
 - CSS3
 - Vite
@@ -26,6 +26,7 @@
 ## 🛠️ Techniques:
 
 - HTTP Requests
+- Responsive Layout
 
 ---
 
