@@ -23,7 +23,9 @@
 - CSS3
 - Vite
 
-<!-- ## 🛠️ Techniques: -->
+## 🛠️ Techniques:
+
+- HTTP Requests
 
 ---
 
