@@ -1,5 +1,7 @@
 # food-order 🍱
 
+**Developed by** **`Grace Chen Abudi`** 👩🏽‍💻
+
 ## 📣 Overview:
 
 - Intro
@@ -14,7 +16,7 @@ Food Order App: A React practice project demonstrating a simple app for ordering
 
 ## 🧰 Tech Stack:
 
-- React
+- React + React Hooks
 - JavaScript
 - NodeJS
 - ExpressJS
@@ -22,6 +24,84 @@ Food Order App: A React practice project demonstrating a simple app for ordering
 - Vite
 
 <!-- ## 🛠️ Techniques: -->
+
+---
+
+# ✨ How to Get Started:
+
+## Clone Project:
+
+```bash
+
+git clone https://github.com/Chen-Abudi/food-order.git
+
+```
+
+## Enter the project directory:
+
+```bash
+
+cd food-order
+
+```
+
+## Install the Dependencies:
+
+```bash
+
+npm install
+
+```
+
+or in short
+
+```bash
+
+npm i
+
+```
+
+## Do the same for the Backend, First enter the project directory:
+
+```bash
+
+cd backend
+
+```
+
+## Then install the dependencies:
+
+```bash
+
+npm install
+
+```
+
+or in short
+
+```bash
+
+npm i
+
+```
+
+## 🧠 Don't forget to add gitignore to both directories!
+
+## 🚀 Launch for the Frontend mode:
+
+```bash
+
+npm run dev
+
+```
+
+## 🚀 And in separate terminal, Launch the Backend server:
+
+```bash
+
+node app.js
+
+```
 
 ---
 
