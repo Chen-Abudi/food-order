@@ -53,7 +53,7 @@ npm install
 
 ```
 
-or in short
+**_or in short_**
 
 ```bash
 
