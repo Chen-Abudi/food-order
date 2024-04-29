@@ -1,3 +1,4 @@
+import Button from "./UI/Button.jsx";
 import headerLogo from "../assets/logo.jpg";
 
 function Header() {
@@ -8,7 +9,7 @@ function Header() {
         <h1>Quick Bite</h1>
       </div>
       <nav>
-        <button>Cart (0)</button>
+        <Button textOnly>Cart (0)</Button>
       </nav>
     </header>
   );
