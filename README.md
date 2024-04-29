@@ -27,6 +27,7 @@
 
 - HTTP Requests
 - Responsive Layout
+- Reusable Custom Components
 
 ---
 
