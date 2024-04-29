@@ -8,7 +8,7 @@ function Meals() {
       const response = await fetch("http://localhost:3000/meals");
 
       if (!response.ok) {
-        // Todo: Add an error handler...
+        // Todo: Add an error handler ...
       }
 
       const meals = await response.json();
