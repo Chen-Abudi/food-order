@@ -16,7 +16,7 @@
 
 ## 🧰 Tech Stack:
 
-- React + React Hooks
+- React
 - JavaScript
 - NodeJS + NodeJS Libraries
 - ExpressJS
@@ -25,6 +25,8 @@
 
 ## 🛠️ Techniques:
 
+- React Hooks
+- React Context
 - HTTP Requests
 - Responsive Layout
 - Reusable Custom Components
