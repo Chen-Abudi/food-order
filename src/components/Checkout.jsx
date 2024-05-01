@@ -55,19 +55,6 @@ function Checkout() {
         },
       })
     );
-
-    // fetch("http://localhost:3000/orders", {
-    //   method: "POST",
-    //   headers: {
-    //     "Content-Type": "application/json",
-    //   },
-    //   body: JSON.stringify({
-    //     order: {
-    //       items: cartCtx.items,
-    //       customer: customerData,
-    //     },
-    //   }),
-    // });
   }
 
   let actions = (
