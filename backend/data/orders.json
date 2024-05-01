@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m3",
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+        "image": "images/caesar-salad.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "Grace Chen Abudi",
+      "email": "test@test.com",
+      "street": "Graceful St. 23",
+      "postal-code": "12345",
+      "city": "Gracecity"
+    },
+    "id": "393.095719884305"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m3",
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+        "image": "images/caesar-salad.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "Grace Chen Abudi",
+      "email": "test@test.com",
+      "street": "Graceful St. 23",
+      "postal-code": "12345",
+      "city": "Gracecity"
+    },
+    "id": "727.3496564561443"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m3",
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+        "image": "images/caesar-salad.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "Grace Chen Abudi",
+      "email": "test@test.com",
+      "street": "Graceful St. 23",
+      "postal-code": "12345",
+      "city": "Gracecity"
+    },
+    "id": "572.9493257801754"
+  }
+]
