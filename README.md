@@ -26,7 +26,7 @@
 ## 🛠️ Techniques:
 
 - React Hooks
-- React Context
+- React Context API
 - HTTP Requests
 - Responsive Layout
 - Reusable Custom Components
